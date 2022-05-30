@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CTrinsic
+- We are HUBRIS 
 - 👀 I’m obsessed with Crypto
 - 🌱 I’m currently learning to code
 - 💞️ I’m looking to collaborate on Dapps and FinTech
