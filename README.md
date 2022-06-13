@@ -1,8 +1,9 @@
-- We are HUBRIS 
-- 👀 I’m obsessed with Crypto
-- 🌱 I’m currently learning to code
-- 💞️ I’m looking to collaborate on Dapps and FinTech
-- 📫 How to reach me ... CryptoTrinsic@protonmail.com 
+- 🦸‍♂️🦸‍♀️ We are the HUBRIS Syndicate
+- 👀🗣 we are passionate about the future of all things Crypto DeFi FinTech
+- 🐂🏇 we are Riding on the Inter-Opera Bull 
+- 🤝🫂 we encourage cooperation within blockchain networks
+
+- 📫 How to reach us ... CryptoTrinsic@protonmail.com 
 
 <!---
 CRYPTOTRINSIC/CRYPTOBUREAU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
